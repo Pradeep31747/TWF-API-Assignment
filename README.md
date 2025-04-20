@@ -82,7 +82,7 @@ This project was developed as part of the **Full Stack Developer Final Assessmen
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/harshvardhan1065/TWF--API-Assignment]
+   git clone [https://github.com/Pradeep31747/TWF-API-Assignment]
    cd delivery-cost-api
    ```
 
